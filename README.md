@@ -1,29 +1,29 @@
 # Cognivisor — UNT Capstone Showcase
 
-Cognivisor is an AI-assisted platform designed to help users break down complex situations, explore realistic options, and decide what to do next. Team InnovateX is developing it as a sponsored Computer Science capstone at the University of North Texas.
+Cognivisor is an AI-assisted platform that helps users work through complex situations. The idea is to take a user’s goals and circumstances, identify realistic options, and turn them into personalized next steps that can adapt as the situation changes.
 
-**Status:** In active development
+We’re building Cognivisor as **Team InnovateX** for our sponsored Computer Science capstone at the University of North Texas. The project is **in active development**.
 
 ## What we’ve built so far
 
-Our four-person team worked together on the main dashboard and the Education experience. The main dashboard brings the app’s features together and includes an animated penguin mascot. The Education section has its own dashboard, visual style, and transitions. Across both areas, we discussed user flows, reviewed interface designs, and refined how users move through the app.
+Our team has worked together on the main dashboard, the Education experience, and the navigation that connects them. The main dashboard includes an animated penguin mascot, and the Education section has its own layout, visual style, and transitions. We review the designs together so each section has a distinct purpose and feels consistent with the rest of the app.
 
 ## Team contributions
 
 | Team member | Contributions |
 | --- | --- |
-| **Diya Basnet** | Prepared project updates, requirements, and design documentation. Contributed to team discussions about how the app should work. |
+| **Simran Ghimire** | Contributed to the Education dashboard’s layout, navigation, and animated transitions using React, TypeScript, and CSS. Helped document user flows for recommendations and progress tracking. |
+| **Diya Basnet** | Prepared project updates, requirements, and design documentation. Helped define features and document team decisions. |
 | **Subin Ghimire** | Developed the main dashboard frontend and proposed the penguin mascot concept. |
-| **Rupesh Pokhrel** | Created the penguin animation for the dashboard and contributed to project updates. |
-| **Simran Ghimire (me)** | Contributed React, TypeScript, and CSS to the Education dashboard, including its layout, navigation, and animated transitions. Helped document user flows and designs for recommendations and progress tracking. |
+| **Rupesh Pokhrel** | Created the penguin animation for the main dashboard and contributed to project updates. |
 
-## Technology
+## Technical stack
 
-- **Web frontend:** React, TypeScript, Vite, and Tailwind CSS
+- **Web interface:** React, TypeScript, Vite, Tailwind CSS, and CSS animations
 - **Backend architecture:** Python and FastAPI
-- **Database architecture:** PostgreSQL through Supabase
-- **AI feature:** Personalized recommendations and actionable next steps
+- **Data architecture:** PostgreSQL through Supabase
+- **AI feature in development:** Personalized recommendations and actionable next steps
 
 ## About this showcase
 
-This public showcase documents our progress while the capstone is in development. The team maintains the application source code in a private repository.
+This repository documents our team’s progress on Cognivisor. The application source code is maintained in the team’s private development repository.
