@@ -1,18 +1,32 @@
 # Cognivisor — UNT Capstone Showcase
 
-Cognivisor is an AI-assisted platform that helps users break down complex situations into actionable next steps. Team InnovateX is building it as a sponsored computer science capstone at the University of North Texas. The project combines AI-assisted recommendations, an animated user interface, and a Python backend.
+Cognivisor is an AI-assisted platform that helps users break down complex
+situations, explore realistic options, and decide what to do next. Team
+InnovateX is developing it as a sponsored computer science capstone at the
+University of North Texas.
 
-## My contribution — Education dashboard
+**Status:** In development
 
-I built the Education dashboard in React, TypeScript, and CSS and connected it to the app’s navigation. I focused on the layout, visual design, and animated transitions that give the Education section its own look and feel. I also contributed to user flows and design documentation for recommendations and progress tracking.
+## Team collaboration
 
-## Team tech stack
+Our four-person team worked together on the overall product, including the
+main dashboard and the Education section. We collaborated on the interface,
+user flows, and animations to make the different parts of the app feel
+consistent.
 
-- **Frontend:** React, TypeScript, and CSS
-- **Backend:** Python and FastAPI
-- **Database:** PostgreSQL through Supabase
-- **AI:** API integration for AI-assisted recommendations
+## My contributions
 
-## Team
+I contributed React, TypeScript, and CSS code to the Education dashboard,
+including work on its layout, navigation, and animated transitions. I also
+worked with my teammates on design documentation for recommendations and
+progress tracking.
+
+## Project stack
+
+- **Frontend:** React, TypeScript, Vite, and Tailwind CSS
+- **Backend architecture:** Python and FastAPI
+- **Database architecture:** PostgreSQL through Supabase
+
+## Team InnovateX
 
 Simran Ghimire, Diya Basnet, Subin Ghimire, and Rupesh Pokhrel.
